@@ -1,0 +1,25 @@
+# generated data
+data/raw/*.csv
+data/processed/*.csv
+
+# documentation
+!data/raw/README.md
+!data/processed/README.md
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache
+.cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints

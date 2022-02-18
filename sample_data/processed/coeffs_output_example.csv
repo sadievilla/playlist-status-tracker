@@ -1,0 +1,42 @@
+feature,coefficient
+log_followers,0.08564414972903805
+genre_neoclassical | classical | contemporary classical_mean,0.0061700747098327735
+genre_turkish pop_mean,0.005990688387423337
+genre_neoclassical_mean,0.005990688387423337
+genre_classical_mean,0.005990688387423337
+genre_french rap_mean,0.005990688387423337
+genre_ballet | classical | orchestral_mean,0.005990688387423337
+genre_medieval_mean,0.00454895868152036
+track_popularity_std,0.001248149489598338
+playlist_size,-0.0007284858480554809
+genre_folk pop_mean,-0.0009036368209127399
+genre_norwegian pop | art pop_mean,-0.0016701852488230085
+genre_dark r&b_mean,-0.0016701852488230431
+genre_bedroom pop_mean,-0.0016701852488230431
+genre_celtic_mean,-0.0016701852488230431
+genre_art pop_mean,-0.0016701852488230431
+genre_baroque pop_mean,-0.0016701852488230431
+genre_norwegian pop_mean,-0.0016701852488230431
+genre_pop singer-songwriter_mean,-0.0016701852488230431
+genre_soundtrack | score_mean,-0.0016701852488230431
+genre_french pop_mean,-0.0016701852488230431
+genre_soft pop_mean,-0.0020928543017565138
+explicit_mean,-0.002272609796098113
+genre_folk pop | pop singer-songwriter_mean,-0.0028168378382643355
+followers_x,-0.0028717825420390974
+track_age_days_median,-0.002910811818076467
+followers_y,-0.003083296639409261
+track_age_days_mean,-0.0033118867694208465
+num_unique_artists,-0.003318095879924876
+genre_indie folk | folk | folk pop_mean,-0.003416866317687589
+genre_indie folk_mean,-0.0034168663176876377
+genre_country | red dirt_mean,-0.0034168663176876377
+artist_popularity_mean,-0.0036314675819992953
+genre_country_mean,-0.0038007503896995143
+genre_worship | christian | ccm | country christian_mean,-0.0038007503896995143
+track_popularity_mean,-0.004137784873971165
+log_artist_followers_mean,-0.004317863684380696
+genre_ambient folk_mean,-0.004533500065218493
+track_popularity_median,-0.0051189951883535145
+artist_diversity_ratio,-0.005888900950506426
+log_followers_prev,-0.0733612803923609

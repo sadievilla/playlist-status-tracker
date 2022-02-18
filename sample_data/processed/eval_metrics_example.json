@@ -1,0 +1,49 @@
+{
+  "target": "delta_log_followers",
+  "n_train": 28,
+  "n_test": 8,
+  "n_playlists_train": 4,
+  "n_playlists_test": 4,
+  "n_train_dates": 7,
+  "n_test_dates": 2,
+  "test_dates": [
+    "2022-02-09",
+    "2022-02-10"
+  ],
+  "baseline_metrics": [
+    {
+      "model": "baseline_zero",
+      "mae": 0.0321,
+      "rmse": 0.0815,
+      "r2": -0.18,
+      "spearman": 0.02,
+      "top10_capture": 0.25
+    },
+    {
+      "model": "baseline_mean",
+      "mae": 0.0298,
+      "rmse": 0.0782,
+      "r2": -0.10,
+      "spearman": 0.10,
+      "top10_capture": 0.25
+    }
+  ],
+  "model_metrics": [
+    {
+      "model": "ridge",
+      "mae": 0.0124,
+      "rmse": 0.0189,
+      "r2": 0.72,
+      "spearman": 0.81,
+      "top10_capture": 0.75
+    },
+    {
+      "model": "linear",
+      "mae": 0.0168,
+      "rmse": 0.0245,
+      "r2": 0.61,
+      "spearman": 0.73,
+      "top10_capture": 0.62
+    }
+  ]
+}
